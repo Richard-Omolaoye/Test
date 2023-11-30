@@ -1,0 +1,122 @@
+body{
+    overflow-x: hidden;
+}
+#head{
+    height: 100px;
+    /* background-color: #f0f2ff; */
+    background-color: white;
+    position: sticky;
+    z-index: 200;
+    top: 0;
+}
+
+#logo{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+#headtext{
+    margin-left: 400px;
+}
+
+h6{
+    font-size: 16px;
+    color: #1b1642;
+    font-family: sans-serif;
+    font-weight: 500;
+    line-height: 78px;
+    transform: translateY(-25px);
+    margin-left: 50px;
+}
+
+#request{
+    margin-left: 180px;
+}
+
+#anchor{
+    text-decoration: none;
+    color: #1b1642;
+}
+
+#button{
+    margin-left: 20px;
+    margin-top: -60px;
+    width: 150px;
+    height: 50px;
+    background-color: #0e0a47;
+}
+
+#layer1{
+    background-color: #f0f2ff;
+    height: 900px;
+}
+
+#here{
+    border: 1px solid none;
+    height: 20px;
+    width: 50px;
+    background-color: RGB(208, 216, 252);
+    margin-left: 100px;
+    position: relative;
+    top: 200px;
+}
+
+#headermac{
+    transform: translate(100px, 180px);
+}
+
+h2{
+    
+    color: RGB(27, 22, 66);
+    font-weight: 300;
+    line-height: 64px;
+    width: 400px;
+}
+
+#desc{
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#buttons{
+    margin-top: 100px;
+    margin-left: -25px;
+}
+
+#butt{
+    margin-left: 20px;
+    margin-top: -60px;
+    width: 150px;
+    height: 50px;
+    background-color: white;
+}
+
+h1{
+    color: RGB(27, 22, 66);
+    text-align: center;
+    transform: translateY(150px);
+}
+
+#schools{
+    text-align: center;
+    transform: translateY(160px);
+}
+
+#learn{
+    color: RGB(27, 22, 66);
+    text-decoration: none;
+}
+
+#learnp{
+    text-align: center;
+    transform: translateY(150px);
+}
+
+#app{
+    transform: translateY(200px)
+}
